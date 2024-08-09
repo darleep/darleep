@@ -3,12 +3,13 @@
 ### 🌟 About Me
 - 🔍 **SOC Analyst & Ethical Hacker** with hands-on experience in **TryHackMe** and **Hack The Box Academy**.
 - 🌍 Ranked in the **Top 1%** worldwide on TryHackMe.
-- 🧑‍💻 Passionate about information security, malware analysis, reverse engineering, and penetration testing.
-- 🛠️ Skilled in various security tools and techniques, including setting up and managing home labs for malware analysis and incident response.
+- 🧑‍💻 Passionate about **information security**, **malware analysis**, **reverse engineering**, and **penetration testing**.
+- 🛠️ Skilled in a wide range of security tools and techniques, including setting up and managing home labs for malware analysis and incident response.
 
 ### 💼 What I'm Working On
 - **GitHub Profile:** [My GitHub Repositories](https://github.com/darleep)
-- **Home Labs:** Building and maintaining labs to experiment with new tools and techniques.
+- **Home Labs:** Developing and maintaining labs to experiment with new tools and techniques.
+- **Malware Analysis Lab:** [Explore My Malware Analysis Lab](https://github.com/darleep/malware_analysis.git) - A comprehensive setup for analyzing malware like WannaCry, including static and dynamic analysis, network monitoring, and more.
 
 ### 🚀 Skills
 - Malware Analysis
