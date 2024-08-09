@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Darleep Singh
 
-<!--
-**darleep/darleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 🔍 **SOC Analyst & Ethical Hacker** with hands-on experience in **TryHackMe** and **Hack The Box Academy**.
+- 🌍 Ranked in the **Top 1%** worldwide on TryHackMe.
+- 🧑‍💻 Passionate about information security, malware analysis, reverse engineering, and penetration testing.
+- 🛠️ Skilled in various security tools and techniques, including setting up and managing home labs for malware analysis and incident response.
 
-Here are some ideas to get you started:
+### 💼 What I'm Working On
+- **GitHub Profile:** [My GitHub Repositories](https://github.com/darleepsingh)
+- **Home Labs:** Building and maintaining labs to experiment with new tools and techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- Malware Analysis
+- Reverse Engineering
+- SIEM Setup (Splunk, ELK)
+- Home Lab Setup
+- Ethical Hacking
+- Incident Response
+- Network Security
+- Python, Bash, PowerShell
+
+### 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/darleepsingh)
+- [Twitter](https://twitter.com/darleepsingh)
