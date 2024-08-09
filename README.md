@@ -7,7 +7,7 @@
 - 🛠️ Skilled in various security tools and techniques, including setting up and managing home labs for malware analysis and incident response.
 
 ### 💼 What I'm Working On
-- **GitHub Profile:** [My GitHub Repositories](https://github.com/darleepsingh)
+- **GitHub Profile:** [My GitHub Repositories]([https://github.com/darleep])
 - **Home Labs:** Building and maintaining labs to experiment with new tools and techniques.
 
 ### 🚀 Skills
