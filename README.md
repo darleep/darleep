@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Darleep Singh
 
 ### 🌟 About Me
-- 🔍 **SOC Analyst & Ethical Hacker** with hands-on experience in **TryHackMe** and **Hack The Box Academy**.
+- 🔍 **Ethical Hacker** with hands-on experience in **TryHackMe** and **Hack The Box Academy**.
 - 🌍 Ranked in the **Top 1%** worldwide on TryHackMe.
 - 🧑‍💻 Passionate about **information security**, **malware analysis**, **reverse engineering**, and **penetration testing**.
 - 🛠️ Skilled in a wide range of security tools and techniques, including setting up and managing home labs for malware analysis and incident response.
